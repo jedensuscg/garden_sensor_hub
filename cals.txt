@@ -1,0 +1,27 @@
+Sensor1
+Air: 686
+Dry: 665
+Moist: 407
+Saturated: 277
+Water: 290
+
+Sensor 2
+Air:682
+Dry: 644
+Moist: 412
+Saturated: 277
+Water: 280
+
+Sensor 3
+Air:688
+Dry: 637
+Moist: 403
+Saturated: 289
+Water: 292
+
+Sensor 4
+Air:695
+Dry: 653 
+Moist: 357
+Saturated: 293
+Water: 303
